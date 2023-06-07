@@ -22,7 +22,7 @@ The Keeper App
 Frontend app using React framework
 
 ```
-![Keeper App](./logo.png "Keeper App")
+![Keeper App](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/588/439/datas/original.png "Keeper App")
 
 [Link to the app](https://4di7o2.csb.app/)
 
