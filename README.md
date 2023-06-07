@@ -33,7 +33,7 @@ Tic-Tac-Toe App
 Frontend app using React framework
 
 ```
-![Tic-Tac-Toe App](./logo.png "Tic-Tac-Toe App")
+![Tic-Tac-Toe App](https://www.vtupulse.com/wp-content/uploads/2022/01/image-21.png "Tic-Tac-Toe App")
 
 [Link to the app](https://6rl7wz.csb.app/)
 
