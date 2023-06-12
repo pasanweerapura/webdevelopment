@@ -16,7 +16,7 @@
 * Project 6: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: /work). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku.
 
 ## React.js
-
+* Project 1
 ```
 The Keeper App 
 Frontend app using React framework
@@ -27,7 +27,7 @@ Frontend app using React framework
 [Link to the app](https://4di7o2.csb.app/)
 
 
-
+* Project 2
 ```
 Tic-Tac-Toe App 
 Frontend app using React framework
@@ -37,8 +37,25 @@ Frontend app using React framework
 
 [Link to the app](https://6rl7wz.csb.app/)
 
+* Project 3
+```
+Mapping Data to Components 
+Frontend app using React framework
+
+```
+![Mapping Data to Components ](https://codesandbox.io/api/v1/sandboxes/6fkfr/screenshot.png "Mapping Data to Components ")
+
+[Link to the app](hhttps://w2xymr.csb.app/)
+
+* Project 4
+```
+React Conditional Rendering
+Frontend app using React framework
+
+```
 
 
+[Link to the app](https://h6336u.csb.app/)
 
 ## Contributing
 
