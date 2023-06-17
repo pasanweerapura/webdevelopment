@@ -68,6 +68,27 @@ Frontend app using React framework
 
 [Link to the app](https://mm9dhy.csb.app/)
 
+* Project 6
+```
+changing complex state
+Frontend app using React framework
+
+```
+![changing complex state ](https://screenshots.codesandbox.io/ruz1e/83.png "changing complex state")
+
+[Link to the app](https://cb262f.csb.app/)
+
+
+* Project 7
+```
+React Props
+Frontend app using React framework
+
+```
+
+
+[Link to the app](https://j6po20.csb.app/)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
